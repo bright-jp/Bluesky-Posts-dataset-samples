@@ -3,7 +3,7 @@
 <h2>1,892件のレコードからなるサンプルデータセット</h2>
 
 <a href="https://brightdata.jp">
-    <img src="https://github.com/luminati-io/Bluesky-Posts-dataset-samples/blob/main/datasets-image.png" alt="Bright Data datasets" />
+    <img src="https://github.com/bright-jp/Bluesky-Posts-dataset-samples/blob/main/datasets-image.png" alt="Bright Data datasets" />
 </a>
 
 この **Bluesky Posts Dataset Sample** には **1,892件のレコード** が含まれており、**Bright Data API** を使用して抽出されました。
