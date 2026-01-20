@@ -1,4 +1,4 @@
-# Bluesky Posts Dataset Sample
+# Bluesky Posts データセットサンプル
 
 <h2>1,892件のレコードからなるサンプルデータセット</h2>
 
